@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class findlargenum {
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
+//        Scanner in = new Scanner(System.in);
 
 //  Largest number
 //        int a = in.nextInt();

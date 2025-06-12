@@ -1,6 +1,6 @@
 package placeJ;
 
-import java.util.Scanner;
+
 
 public class findfibo {
     public static void main(String[] args) {
@@ -41,7 +41,7 @@ public class findfibo {
         int b = 1;
 
         System.out.print(a + " "); // First number
-        if (n > 1) {
+        if (n >=1) {
             System.out.print(b + " "); // Second number
         }
 
