@@ -2,7 +2,7 @@ package placeJ;
 
 
 
-public class findfibo {
+public class FindFibo {
     public static void main(String[] args) {
 ////find the fibonacci of n using temp
 //        Scanner in = new Scanner(System.in);
@@ -41,7 +41,7 @@ public class findfibo {
         int b = 1;
 
         System.out.print(a + " "); // First number
-        if (n >=1) {
+        if (n > 1) {
             System.out.print(b + " "); // Second number
         }
 

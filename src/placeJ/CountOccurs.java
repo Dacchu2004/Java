@@ -1,6 +1,6 @@
 package placeJ;
 
-public class countoccurs {
+public class CountOccurs {
     public static void main(String[] args){
 //counting the repetation/occurance if a particular num in a digit
         int n=14446748;

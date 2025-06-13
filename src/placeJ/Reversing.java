@@ -1,6 +1,6 @@
 package placeJ;
 
-public class reversing {
+public class Reversing {
     public static void main(String[] args) {
 //Reversing the number
         int n = 231487;
